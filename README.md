@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mychael+Fokou;Bridging+Computer+Science+%26+Living+Systems;Quantitative+Biology+%7C+Bioinformatics+%7C+Deep+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=10B981&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mychael+Fokou;Bridging+Computer+Science+%26+Living+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -46,5 +46,5 @@ class MychaelFokou:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/mychaelfokou-hub/mychaelfokou-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
