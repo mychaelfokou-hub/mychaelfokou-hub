@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mychael+Fokou;Bridging+Computer+Science+%26+Living+Systems;Quantitative+Biology+%7C+Bioinformatics+%7C+Deep+Learning" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=mychaelfokou-hub&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/mychaelfokou-hub)
-  
-</div>
-
 ---
 
 ### 🧬 About Me
@@ -34,8 +28,7 @@ class MychaelFokou:
 - 🔬 **Research & Work:** Graduate Research Assistant at **Università degli Studi di Milano**
 - 🔭 **Current Focus:** Developing **ThermoRNA** (Biophysics framework for RNA conformational energy landscapes & structure prediction)
 - 🧬 **Genomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
-- 🌍 **Writings & Blog:** Founder of [Alkebulan.it](https://alkebulan.it/) – Open knowledge on African culture & history
-- 💬 **Ask me about:** Python, R, PyTorch, Bioinformatics, RNA secondary structure, FastAPI, Web Development
+- 🌍 **Blog:** Founder of [Alkebulan.it](https://alkebulan.it/) – Open knowledge on African culture & history
 - 📫 **Reach me:** [mychael.fokou@gmail.com](mailto:mychael.fokou@gmail.com)
 
 ---
@@ -71,17 +64,6 @@ class MychaelFokou:
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mychaelfokou-hub&show_icons=true&theme=tokyonight&title_color=a855f7&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mychaelfokou-hub&theme=tokyonight&hide_border=true&stroke=a855f7&ring=a855f7&fire=a855f7" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🤝 Connect With Me
 
