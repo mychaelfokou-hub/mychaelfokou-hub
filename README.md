@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Mychael+Fokou;Bridging+Computer+Science+%26+Living+Systems;Quantitative+Biology+%7C+Bioinformatics+%7C+Deep+Learning" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=mychaelfokou-hub&label=Profile%20views&color=blueviolet&style=for-the-badge)](https://github.com/mychaelfokou-hub)
-  
-</div>
-
 ---
 
 ### 🧬 About Me
