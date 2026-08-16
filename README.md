@@ -12,7 +12,6 @@ class MychaelFokou:
         self.role = "Graduate Research Assistant & Quantitative Biologist"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
         self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
-        self.core_stack = ["Python", "R", "PyTorch", "FastAPI"]
         self.research_interests = [
             "Thermodynamic Computing",
             "ncRNA Interaction Prediction",
