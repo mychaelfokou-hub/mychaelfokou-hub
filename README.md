@@ -14,14 +14,9 @@ class MychaelFokou:
         self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
         self.research_interests = [
             "Thermodynamic Computing",
-            "ncRNA Interaction Prediction",
-            "Single-Cell & Bulk RNA-Seq Pipelines",
-            "Deep Learning Foundation Models for Biology",
+            "Molecular Modelling"
         ]
-        self.passions = [
-            "Bridging computational logic with living systems",
-            "Open science & Cultural divulgation (Alkebulan.it)",
-        ]
+
 ```
 
 - 🔬 **Research & Work:** Graduate Research Assistant at **Università degli Studi di Milano**
