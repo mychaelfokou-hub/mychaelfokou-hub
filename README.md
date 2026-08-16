@@ -46,5 +46,5 @@ class MychaelFokou:
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20face%20of%20uncertainty%2C%20pessimism%20has%20the%20same%20weight.&author=Mychael%20Fokou" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Almost%20all%20aspects%20of%20life%20are%20engineered%20at%20the%20molecular%20level.&author=Francis%20Crick" alt="Quote" />
 </div>
