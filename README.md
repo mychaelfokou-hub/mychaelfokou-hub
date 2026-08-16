@@ -46,5 +46,5 @@ class MychaelFokou:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mychaelfokou-hub/mychaelfokou-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:10B981,100:064E3B&height=120&section=footer&text=Bridging%20CS%20%26%20Biology&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
