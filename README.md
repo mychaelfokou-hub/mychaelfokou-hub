@@ -46,5 +46,5 @@ class MychaelFokou:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:10B981,100:064E3B&height=120&section=footer&text=Bridging%20CS%20%26%20Biology&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20the%20face%20of%20uncertainty%2C%20pessimism%20has%20the%20same%20weight.&author=Mychael%20Fokou" alt="Quote" />
 </div>
