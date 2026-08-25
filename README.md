@@ -23,7 +23,7 @@ class MychaelFokou:
 - ⚙️⚙️⚙️⚙️
   
 ### 🎓 Coursework Projects
-- **Transcriptomics:** Developed pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis as part of advanced coursework
+- **Transcriptomics:** Developed pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
 - **Genomics:** Designed a diagnostic workflow for identifying rare genetic disorders using simulated Trio-based Exome Sequencing data
 ---
 
