@@ -9,16 +9,19 @@
 ```python
 class MychaelFokou:
     def __init__(self):
-        self.role = "Graduate Research Assistant & Quantitative Biologist"
-        self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
+        self.role = "Student & Research Assistant"
+        self.education = "BSc in Computer Science (Graduated) ➔ MSc in Quantitative Biology (Student)"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
 
-### 🧬 Personal Works
+### 🧬 Personal Projects
 - **Python:** Focusing on advanced scientific computing and data analysis using **NumPy, SciPy, Pandas, and Matplotlib**
 - **BSc Thesis:** Developed an end-to-end Web Application for non-coding RNA (ncRNA) interaction prediction, integrating Deep Learning Foundation Models
+
+### 🔬 Research
+- ⚙️⚙️⚙️⚙️
   
-### 🎓 Academic Projects
+### 🎓 Coursework Projects
 - **Transcriptomics:** Developed pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis as part of advanced coursework
 - **Genomics:** Designed a diagnostic workflow for identifying rare genetic disorders using simulated Trio-based Exome Sequencing data
 ---
