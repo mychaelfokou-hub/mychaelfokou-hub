@@ -24,9 +24,9 @@ class MychaelFokou:
 ---
 
 ### 🤝 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mychael-fokou-18287927a)
-- [![Alkebulan.it](https://img.shields.io/badge/Alkebulan.it-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://alkebulan.it/)
-- [![Email](https://img.shields.io/badge/mychael.fokou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mychael.fokou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mychael-fokou-18287927a)
+[![Alkebulan.it](https://img.shields.io/badge/Alkebulan.it-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://alkebulan.it/)
+[![Email](https://img.shields.io/badge/mychael.fokou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mychael.fokou@gmail.com)
 
 ---
 
