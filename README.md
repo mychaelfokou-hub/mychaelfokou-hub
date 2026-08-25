@@ -12,7 +12,7 @@ class MychaelFokou:
         self.role = "Graduate Research Assistant & Quantitative Biologist"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
         self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
-        self.language = "Python"
+        self.language = "Scientific Python and Data Analysis"
 
 ```
 
