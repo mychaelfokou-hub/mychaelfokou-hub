@@ -9,7 +9,7 @@
 ```python
 class MychaelFokou:
     def __init__(self):
-        self.role = "Graduate Research Assistant & Quantitative Biologist" at **Università degli Studi di Milano**
+        self.role = "Graduate Research Assistant & Quantitative Biologist"
         self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
