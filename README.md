@@ -9,30 +9,19 @@
 ```python
 class MychaelFokou:
     def __init__(self):
-        self.role = "Graduate Research Assistant & Quantitative Biologist"
-        self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
+        self.role = "Graduate Research Assistant & Quantitative Biologist" at **Università degli Studi di Milano**
         self.education = "BSc in Computer Science ➔ MSc in Quantitative Biology (UniMi)"
-        self.language = "Scientific Python and Data Analysis"
-
+        self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
 
-- 🔬 **Research & Work:** Graduate Research Assistant at **Università degli Studi di Milano**
-- 🔭 **Current Focus:** Building my Skills in **Python**
 - 🧬 **Genomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
-- 🌍 **Blog:** Founder of [Alkebulan.it](https://alkebulan.it/) – Open knowledge on African culture & history
-- 📫 **Reach me:** [mychael.fokou@gmail.com](mailto:mychael.fokou@gmail.com)
 
 ---
 
 ### 🤝 Connect With Me
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mychael-fokou-18287927a)
-  [![Alkebulan.it](https://img.shields.io/badge/Alkebulan.it-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://alkebulan.it/)
-  [![Email](https://img.shields.io/badge/mychael.fokou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mychael.fokou@gmail.com)
-  
-</div>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mychael-fokou-18287927a)
+- [![Alkebulan.it](https://img.shields.io/badge/Alkebulan.it-10B981?style=for-the-badge&logo=safari&logoColor=white)](https://alkebulan.it/)
+- [![Email](https://img.shields.io/badge/mychael.fokou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mychael.fokou@gmail.com)
 
 ---
 
