@@ -4,7 +4,7 @@
 
 ---
 
-### 🧬 About Me
+### 😇 About Me
 
 ```python
 class MychaelFokou:
@@ -14,8 +14,11 @@ class MychaelFokou:
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
 
-- 🧬 **Genomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
-
+### 🧬 My Work
+- **Scientific Python and Data Analysis:**
+- **Transcriptomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
+- **Genomics:** Built a diagnostic workflow for identifying rare genetic disorders using simulated Trio-based Exome Sequencing data
+  
 ---
 
 ### 🤝 Connect With Me
