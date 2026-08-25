@@ -10,7 +10,8 @@
 class MychaelFokou:
     def __init__(self):
         self.role = "Student & Research Assistant"
-        self.education = "BSc in Computer Science (Graduated) ➔ MSc in Quantitative Biology (Student)"
+        self.BSc = "Computer Science (Graduated)
+        self.MSc = "Quantitative Biology (Student)"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
 
