@@ -14,11 +14,13 @@ class MychaelFokou:
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
 ```
 
-### 🧬 My Work
-- **Scientific Python and Data Analysis:**
-- **Transcriptomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
-- **Genomics:** Built a diagnostic workflow for identifying rare genetic disorders using simulated Trio-based Exome Sequencing data
+### 🧬 Personal Works
+- **Python:** Focusing on advanced scientific computing and data analysis using **NumPy, SciPy, Pandas, and Matplotlib**
+- **BSc Thesis:** Developed an end-to-end Web Application for non-coding RNA (ncRNA) interaction prediction, integrating Deep Learning Foundation Models
   
+### 🎓 Academic Projects
+- **Transcriptomics:** Developed pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis as part of advanced coursework
+- **Genomics:** Designed a diagnostic workflow for identifying rare genetic disorders using simulated Trio-based Exome Sequencing data
 ---
 
 ### 🤝 Connect With Me
