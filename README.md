@@ -17,7 +17,7 @@ class MychaelFokou:
 ```
 
 - 🔬 **Research & Work:** Graduate Research Assistant at **Università degli Studi di Milano**
-- 🔭 **Current Focus:** Developing **ThermoRNA** (Biophysics framework for RNA conformational energy landscapes & structure prediction)
+- 🔭 **Current Focus:** Building my Skills in **Scientific Python and Data Analysis**
 - 🧬 **Genomics:** Built end-to-end pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
 - 🌍 **Blog:** Founder of [Alkebulan.it](https://alkebulan.it/) – Open knowledge on African culture & history
 - 📫 **Reach me:** [mychael.fokou@gmail.com](mailto:mychael.fokou@gmail.com)
