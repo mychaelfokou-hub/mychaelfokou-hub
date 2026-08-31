@@ -16,7 +16,8 @@ class MychaelFokou:
 ```
 
 ### 🧬 Personal Projects
-- **Python:** Focusing on advanced scientific computing and data analysis using **NumPy, SciPy, Pandas, and Matplotlib**
+- **Python:** Focusing on advanced scientific computing and data analysis
+ - Currently training on Rosalind
 - **BSc Thesis:** Developed an end-to-end Web Application for non-coding RNA (ncRNA) interaction prediction, integrating Deep Learning Foundation Models
 
 ### 🔬 Research
