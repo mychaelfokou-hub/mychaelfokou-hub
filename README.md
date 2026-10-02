@@ -9,7 +9,6 @@
 ```python
 class MychaelFokou:
     def __init__(self):
-        self.role = "Student & Research Assistant"
         self.BSc = "Computer Science (Graduated)"
         self.MSc = "Quantitative Biology (Student)"
         self.location = "Milan, Italy 🇮🇹 / Switzerland 🇨🇭"
@@ -19,9 +18,6 @@ class MychaelFokou:
 - **Python:** Focusing on advanced scientific computing and data analysis
   - Currently training on Rosalind
 - **BSc Thesis:** Developed an end-to-end Web Application for non-coding RNA (ncRNA) interaction prediction, integrating Deep Learning Foundation Models
-
-### 🔬 Research
-- ⚙️⚙️⚙️⚙️
   
 ### 🎓 Coursework Projects
 - **Transcriptomics:** Developed pipelines for **Bulk (GTEx) & Single-Cell (10x) RNA-Seq** analysis
